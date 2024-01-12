@@ -1,0 +1,7 @@
+.fixed-hide {
+  transform: translateY(-100px);
+}
+
+.header {
+  transition: 0.5s;
+}
